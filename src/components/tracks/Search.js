@@ -31,7 +31,7 @@ const Search = () => {
   };
 
   return (
-    <div className="card card-body mb-4 p-4">
+    <div className="card card-body mb-4 p-4" style={{backgroundColor:"#f2e8ff"}}>
       <h1 className="display-4 text-center">
         <i className="fas fa-music" /> Search For A Song
       </h1>
@@ -47,7 +47,7 @@ const Search = () => {
             onChange={onChange}
           />
         </div>
-        <button className="btn btn-primary btn-lg btn-block mb-5" type="submit">
+        <button className="btn btn-primary btn-dark btn-block mb-5" type="submit" >
           Get Track Lyrics
         </button>
       </form>
