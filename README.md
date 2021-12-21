@@ -2,3 +2,10 @@
 
 # lyrics-search-system
 This system helps its users to find the lyrics of their desired song.
+
+## To run the application:
+
+### 1. Download and install the files from GitHub.
+### 2. Unzip the files and open in a code editor. 
+### 3. Run the command: npm install 
+### 4. Run the command: npm start
